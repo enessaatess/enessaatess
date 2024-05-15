@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enessaatess" alt="enessaatess" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/enesats01" target="blank"><img src="https://img.shields.io/twitter/follow/enesats01?logo=twitter&style=for-the-badge" alt="enesats01" /></a> </p>
+<p align="left"> <a href="https://twitter.com" target="blank"><img src="https://img.shields.io/twitter/follow/enesats01?logo=twitter&style=for-the-badge" alt="Coming Soon" /></a> </p>
 
 - 🔭 I’m currently working on **SaaS**
 
 - 🌱 I’m currently learning **Laravel**
 
-- 📝 I regularly write articles on [https://enesates01.medium.com/](https://enesates01.medium.com/)
+- 📝 I regularly write articles on [https://enesatess.medium.com/](https://enesatess.medium.com/)
 
 - 📫 How to reach me **enesates01@gmail.com**
 
